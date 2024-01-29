@@ -5,3 +5,4 @@ token.tgz
 test.*
 tokenize
 log/*
+model.ckpt
