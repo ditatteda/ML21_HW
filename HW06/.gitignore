@@ -1,4 +1,5 @@
 data/*
 logs/*
 checkpoints/*
-test.*
+test*
+HW06.pdf
